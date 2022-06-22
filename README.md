@@ -1,7 +1,5 @@
 # <a href="https://apps.apple.com/app/id1625641322"><img src="https://cdn.sparrowcode.io/github/apps-using/id1625641322.png?version=2" height="26"></a> One Time Password
 
-### Community
-
 <p float="left">
     <a href="https://apps.apple.com/app/id1625641322">
         <img src="https://cdn.sparrowcode.io/github/badges/download-on-the-appstore.png?version=2" height="52">
@@ -59,3 +57,11 @@ let password = OTP.generateOTP(secret: "secret")
 // With custom values
 let password = OTP.generateOTP(secret: "secret", algorithm: OTPAlgorithm = .sha1, expirationTimeInSeconds: Int = 30, digits: Int = 6)
 ```
+
+## Apps Using
+
+<p float="left">
+    <a href="https://apps.apple.com/app/id1625641322"><img src="https://cdn.sparrowcode.io/github/apps-using/id1625641322.png?version=2" height="65"></a>
+</p>
+
+If you use a `OTP`, add your application via Pull Request.
