@@ -1,9 +1,13 @@
+<p float="left">
+    <a href="https://apps.apple.com/app/id1625641322"><img src="https://cdn.sparrowcode.io/github/apps-using/id1625641322.png?version=2" height="65"></a>
+</p>
+
 # OTP
 
 ### Community
 
 <p float="left">
-    <a href="#apps-using">
+    <a href="https://apps.apple.com/app/id1625641322">
         <img src="https://cdn.sparrowcode.io/github/badges/download-on-the-appstore.png?version=2" height="52">
     </a>
     <a href="https://github.com/sponsors/sparrowcode">
@@ -16,8 +20,7 @@
 - [Installation](#installation)
     - [Swift Package Manager](#swift-package-manager)
     - [Manually](#manually)
-- [Usage]
-- [Apps Using](#apps-using)
+- [Usage](#usage)
 
 ## Installation
 
@@ -60,11 +63,3 @@ let password = OTP.generateOTP(secret: "secret")
 // With custom values
 let password = OTP.generateOTP(secret: "secret", algorithm: OTPAlgorithm = .sha1, expirationTimeInSeconds: Int = 30, digits: Int = 6)
 ```
-
-## Apps Using
-
-<p float="left">
-    <a href="https://apps.apple.com/app/id1625641322"><img src="https://cdn.sparrowcode.io/github/apps-using/id1625641322.png?version=2" height="65"></a>
-</p>
-
-If you use a `FRMNAME`, add your application via Pull Request.
