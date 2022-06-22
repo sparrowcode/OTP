@@ -13,6 +13,7 @@
 
 - [Installation](#installation)
     - [Swift Package Manager](#swift-package-manager)
+    - [CocoaPods](#cocoapods)
     - [Manually](#manually)
 - [Usage](#usage)
 - [Apps Using](#apps-using)
