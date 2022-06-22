@@ -1,4 +1,4 @@
-# <a href="https://apps.apple.com/app/id1625641322"><img src="https://cdn.sparrowcode.io/github/apps-using/id1625641322.png?version=2" height="26"></a> One Time Password
+# One Time Password
 
 <p float="left">
     <a href="https://apps.apple.com/app/id1625641322">
