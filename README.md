@@ -15,6 +15,7 @@
     - [Swift Package Manager](#swift-package-manager)
     - [Manually](#manually)
 - [Usage](#usage)
+- [Apps Using](#apps-using)
 
 ## Installation
 
